@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore Conda environment files
+*.conda
+*.env
+*.DS_Store
